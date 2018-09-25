@@ -1,0 +1,22 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<!--<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">-->
+        <!--3 <configuration>-->
+    <!--4     <environments default="development">-->
+    <!--5         <environment id="development">-->
+    <!--6             <transactionManager type="JDBC" />-->
+    <!--7             &lt;!&ndash; 配置数据库连接信息 &ndash;&gt;-->
+    <!--8             <dataSource type="POOLED">-->
+    <!--9                 <property name="driver" value="com.mysql.jdbc.Driver" />-->
+    <!--10                 <property name="url" value="jdbc:mysql://localhost:3306/mybatis" />-->
+    <!--11                 <property name="username" value="root" />-->
+    <!--12                 <property name="password" value="123456" />-->
+    <!--13             </dataSource>-->
+    <!--14         </environment>-->
+    <!--15     </environments>-->
+           <!--<mappers>-->
+        <!--18         &lt;!&ndash; 注册userMapper.xml文件，-->
+<!--19         userMapper.xml位于me.gacl.mapping这个包下，所以resource写成me/gacl/mapping/userMapper.xml&ndash;&gt;-->
+        <!--20         <mapper resource="me/gacl/mapping/userMapper.xml"/>-->
+        <!--21     </mappers>-->
+    <!--16-->
+    <!--17 </configuration>-->
